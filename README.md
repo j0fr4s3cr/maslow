@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/111472825/186256825-9b5c8e02-1c1f-49b4-afed-0e5630487cf5.png">
 
 
-<h1>Requisitos y uso</h1>
+<h1>Requisitos</h1>
 
 
 <p>1 instala el archivo requirements.txt con el siguiente comando:<p>
@@ -31,3 +31,5 @@
  </pre>
 <p>Esto instalará todas las librerias que pudieras necesitar en el proyecto.</p>
 
+
+<h1>Uso</h1>
