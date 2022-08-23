@@ -1,8 +1,12 @@
 <h1 class="title">Maslow</h1>
 
-<p> Proyecto desarrollado con el fin de </p>
+[![Windows Supported](https://img.shields.io/badge/Windows-Supported-blue?style=flat-square&logo=windows)](#)
+[![Linux Supported](https://img.shields.io/badge/Linux-Supported-red?style=flat-square&logo=linux)](#)
+[![By](https://img.shields.io/badge/By-j0fr4s3cr-yellow?style=flat-square&logo=github)](#)
 
-<img src="https://user-images.githubusercontent.com/111472825/186248260-71b647ac-1e7d-4f4e-bb1c-33c9fe03805e.png">
+<p> Proyecto desarrollado con el fin de poder apoyar a toda la comunidad para comenzar con el uso de APi en los equipos meraki</p>
+
+<img src="https://user-images.githubusercontent.com/111472825/186256825-9b5c8e02-1c1f-49b4-afed-0e5630487cf5.png">
 
 
 <h1>Requisitos y uso</h1>
