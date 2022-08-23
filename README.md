@@ -12,7 +12,7 @@
 <h1>Requisitos</h1>
 
 
-<p>1 instala el archivo requirements.txt con el siguiente comando:<p>
+<p> instala el archivo requirements.txt con el siguiente comando:<p>
  <h3>Comando en windows</h3>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto">
 <pre class="notranslate">
